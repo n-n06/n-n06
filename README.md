@@ -1,4 +1,4 @@
-<img src = "[https://ibb.co.com/wN0V3dj](https://i.postimg.cc/kGMyxySC/illust-80600804-20231031-142710.jpg)">
+<img src = "https://i.postimg.cc/kGMyxySC/illust-80600804-20231031-142710.jpg">
 <h1>Me</h1>
 <h3>A beginner Back-end and ML developer with some GameDev experience.</h3>
 <p>Been pretty lazy recently.<br></p>
