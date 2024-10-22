@@ -1,5 +1,3 @@
-[![illust-116327446-20240503-011046.jpg](https://i.postimg.cc/Fzv4NgcW/illust-116327446-20240503-011046.jpg)](https://postimg.cc/Hc6KtM6X)
-Art by 紺屋鴉江 https://www.pixiv.net/users/10109777
 <h1>Me</h1>
 <h3>A beginner Back-end and ML developer with some GameDev experience.</h3>
 <p>Been pretty lazy recently.<br></p>
