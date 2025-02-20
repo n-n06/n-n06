@@ -22,9 +22,8 @@
 
 ###
 
-<br clear="both">
 
-<img align="right" height="160" src="https://i.postimg.cc/KvfDHZrJ/illust-121999945-20240908-102951.jpg"  />
+<img align="right" height="160" src="https://u.cubeupload.com/n_n06/illust12199994520240.jpg"  />
 
 ###
 
