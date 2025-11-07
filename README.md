@@ -1,5 +1,5 @@
 <h1>n-n06</h1>
-<h2 align="left">Hi 👋! My name is Nursultan and I'm a Backend / ML dev.</h2>
+<h2 align="left">Hi 👋! My name is Nursultan and I'm a Data / ML Engineer.</h2>
 
 ###
 
