@@ -3,29 +3,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-n06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n-n06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<h3 align="left">General interests:</h3>
-
-###
-
-<p align="left">- Music. I enjoy variety of genres like classical, alt rock, hardcore techno, and Vocaloid)<br>- Animanga. Fav anime - Your Lie in April<br>- Videogames. I really like plot-driven games like Omori and Undertale. Also play rhythm games like osu!, gd, etc.</p>
-
-###
-
-<h3 align="left">Technologies:</h3>
-
-###
-
-
-<img align="right" height="160" src="https://u.cubeupload.com/n_n06/illust12199994520240.jpg"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
